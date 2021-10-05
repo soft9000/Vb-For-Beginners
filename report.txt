@@ -1,0 +1,128 @@
+ Volume in drive D is _DATA
+ Volume Serial Number is 6C0B-6B38
+
+ Directory of D:\usr\Noj\RNAGY\Training\BOOTCAMPS\VB.NET\Practice
+
+07/23/2004  12:41p                   0 LengthBugFix.vb.log
+07/23/2004  12:41p                   0 CallExample.vb.log
+07/23/2004  12:41p                   0 DoLoop.vb.log
+07/23/2004  12:41p                   0 DoUntil.vb.log
+07/23/2004  12:41p                   0 DoUntilPrefix.vb.log
+07/23/2004  12:41p                   0 DoWhile.vb.log
+07/23/2004  12:41p                   0 FileDir.vb.log
+07/23/2004  12:41p                   0 fmcalc.vb.log
+07/23/2004  12:41p                   0 fmcalc1.vb.log
+07/23/2004  12:41p                   0 fmcalc2.vb.log
+07/23/2004  12:41p                   0 fmcalc3.vb.log
+07/23/2004  12:41p                   0 fmcalc_setup.vb.log
+07/23/2004  12:41p                   0 ForEach.vb.log
+07/23/2004  12:41p                   0 ForNext.vb.log
+07/23/2004  12:41p                   0 ForNextStep.vb.log
+07/23/2004  12:41p                   0 Goto.vb.log
+07/23/2004  12:41p                   0 Hello1.vb.log
+07/23/2004  12:41p                   0 Hello2.vb.log
+07/23/2004  12:41p                   0 HelloQualified.vb.log
+07/23/2004  12:41p                   0 IfElse.vb.log
+07/23/2004  12:41p                   0 ifend.vb.log
+07/23/2004  12:41p                   0 LengthBug.vb.log
+07/23/2004  12:41p                   0 Array1.vb.log
+07/23/2004  12:41p                   0 LineBreaks.vb.log
+07/23/2004  12:41p                   0 MyCalendarOne.TestCase.vb.log
+07/23/2004  12:41p                   0 MySchedule1.vb.log
+07/23/2004  12:41p                   0 MySchedule2.vb.log
+07/23/2004  12:41p                   0 Nothing.vb.log
+07/23/2004  12:41p                   0 Property1.vb.log
+07/23/2004  12:41p                   0 SelectCase.vb.log
+07/23/2004  12:41p                   0 SelectCaseExceptional.vb.log
+07/23/2004  12:41p                   0 Shadows1.vb.log
+07/23/2004  12:41p                   0 StringSplit.vb.log
+07/23/2004  12:41p                   0 TickTackTwister.vb.log
+07/23/2004  12:41p                   0 VbCal0.vb.log
+07/23/2004  12:41p                   0 VbCal1.vb.log
+07/23/2004  12:41p                   0 VbCalCon1.vb.log
+07/23/2004  12:41p                   0 VbCalCon2.vb.log
+07/23/2004  12:41p                   0 VBCalCon3.vb.log
+07/23/2004  12:41p                   0 VBNote0.vb.log
+07/23/2004  12:41p                   0 VBNote1.vb.log
+07/23/2004  12:41p                   0 VBNote2.vb.log
+07/23/2004  12:41p                   0 VBNote3.vb.log
+07/23/2004  12:41p                   0 While.vb.log
+              44 File(s)              0 bytes
+
+ Directory of D:\usr\Noj\RNAGY\Training\BOOTCAMPS\VB.NET\Practice\library
+
+07/23/2004  12:41p                   0 MyResearch.vb.log
+07/23/2004  12:41p                   0 MySerializedResearch.vb.log
+07/23/2004  12:41p                   0 FreeTools2.vb.log
+               3 File(s)              0 bytes
+
+     Total Files Listed:
+              47 File(s)              0 bytes
+               0 Dir(s)  19,629,785,088 bytes free
+ Volume in drive D is _DATA
+ Volume Serial Number is 6C0B-6B38
+
+ Directory of D:\usr\Noj\RNAGY\Training\BOOTCAMPS\VB.NET\Practice
+
+07/23/2004  12:41p               3,072 LengthBugFix.exe
+07/23/2004  12:41p               3,072 CallExample.exe
+07/23/2004  12:41p               3,072 DoLoop.exe
+07/23/2004  12:41p               3,072 DoUntil.exe
+07/23/2004  12:41p               3,072 DoUntilPrefix.exe
+07/23/2004  12:41p               3,072 DoWhile.exe
+07/23/2004  12:41p               3,072 Hello1.exe
+07/23/2004  12:41p               3,072 Nothing.exe
+07/23/2004  12:41p               3,072 Hello2.exe
+07/23/2004  12:41p               3,072 Goto.exe
+07/23/2004  12:41p               3,072 StringSplit.exe
+07/23/2004  12:41p               3,072 fmcalc_setup.exe
+07/23/2004  12:41p               3,072 ForEach.exe
+07/23/2004  12:41p               3,072 ForNext.exe
+07/23/2004  12:41p               3,072 ForNextStep.exe
+07/23/2004  12:41p               3,072 Array1.exe
+07/23/2004  12:41p               3,072 Property1.exe
+07/23/2004  12:41p               3,072 ifend.exe
+07/23/2004  12:41p               3,072 LengthBug.exe
+07/23/2004  12:41p               3,584 IfElse.exe
+07/23/2004  12:41p               3,584 HelloQualified.exe
+07/23/2004  12:41p               3,584 fmcalc2.exe
+07/23/2004  12:41p               3,584 fmcalc.exe
+07/23/2004  12:41p               3,584 LineBreaks.exe
+07/23/2004  12:41p               3,584 fmcalc1.exe
+07/23/2004  12:41p               3,584 FileDir.exe
+07/23/2004  12:41p               3,584 MySchedule1.exe
+07/23/2004  12:41p               3,584 While.exe
+07/23/2004  12:41p               3,584 SelectCase.exe
+07/23/2004  12:41p               3,584 SelectCaseExceptional.exe
+07/23/2004  12:41p               3,584 Shadows1.exe
+07/23/2004  12:41p               4,096 fmcalc3.exe
+07/23/2004  12:41p               4,096 MySchedule2.exe
+07/23/2004  12:41p               4,608 MyCalendarOne.TestCase.exe
+07/23/2004  12:41p               4,608 VBNote0.exe
+07/23/2004  12:41p               4,608 VbCalCon2.exe
+07/23/2004  12:41p               5,120 VBCalCon3.exe
+07/23/2004  12:41p               5,632 VBNote1.exe
+07/23/2004  12:41p               5,632 VBNote2.exe
+07/23/2004  12:41p               6,656 VbCalCon1.exe
+07/23/2004  12:41p               6,656 VbCal0.exe
+07/23/2004  12:41p               6,656 VbCal1.exe
+07/23/2004  12:41p               6,656 VBNote3.exe
+07/23/2004  12:41p               9,728 TickTackTwister.exe
+              44 File(s)        176,128 bytes
+
+     Total Files Listed:
+              44 File(s)        176,128 bytes
+               0 Dir(s)  19,629,780,992 bytes free
+ Volume in drive D is _DATA
+ Volume Serial Number is 6C0B-6B38
+
+ Directory of D:\usr\Noj\RNAGY\Training\BOOTCAMPS\VB.NET\Practice
+
+07/23/2004  12:41p               5,632 MyResearch.dll
+07/23/2004  12:41p               5,632 MySerializedResearch.dll
+07/23/2004  12:41p               6,144 FreeTools2.dll
+               3 File(s)         17,408 bytes
+
+     Total Files Listed:
+               3 File(s)         17,408 bytes
+               0 Dir(s)  19,629,842,432 bytes free
