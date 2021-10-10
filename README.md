@@ -1,7 +1,7 @@
 # Vb-For-Beginners
-Above is the supporting VB.Net source code for the [Amazon Book](https://www.amazon.com/dp/B09HRB796V):
+The VB.Net source code in this project is from my [VB For Beginners](https://www.amazon.com/dp/B09HRB796V) book:
 
-![2012 Edition](https://github.com/soft9000/Vb-For-Beginners/blob/main/_Graphics/CoverAmazonKindle.png)
+![2021 Edition](https://github.com/soft9000/Vb-For-Beginners/blob/main/_Graphics/CoverAmazonKindle.png)
 
 Cheers,
 
