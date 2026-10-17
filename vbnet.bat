@@ -6,7 +6,7 @@ if "%3" == "3" goto special3
 :special1
 REM Nothing special here...
 @echo on
-vbc %1 /nologo /target:%2 /r:system.dll > %1.log
+vbc %1 /nowarn /nologo /target:%2 /r:system.dll > %1.log
 @echo off
 goto done
 
