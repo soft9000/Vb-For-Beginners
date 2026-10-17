@@ -22,7 +22,7 @@ REM No need to build these...
 REM call vbnet StartCalc.vb exe 1
 REM call vbnet ReDimError.vb exe 1
 
-REM Things that do note nees any of our special libraries
+REM Things that do not need any of our special libraries:
 call vbnet Array1.vb exe 1
 call vbnet CallExample.vb exe 1
 call vbnet DoLoop.vb exe 1
