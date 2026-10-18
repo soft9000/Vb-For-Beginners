@@ -46,7 +46,7 @@
 10/17/2026  07:42 PM                 0 VBNote1.vb.log
 10/17/2026  07:42 PM                 0 VBNote2.vb.log
 10/17/2026  07:42 PM                 0 While.vb.log
-10/17/2026  07:42 PM               160 VBCalCon3.vb.log
+10/17/2026  07:42 PM                 0 VBCalCon3.vb.log
               44 File(s)            160 bytes
 
  Directory of c:\study.vb\library
