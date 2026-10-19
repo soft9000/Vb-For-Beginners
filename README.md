@@ -3,6 +3,11 @@ The **VB.Net** source code in this project supports the book on [Amazon](https:/
 
 Feel free to purchase the [printed](https://www.amazon.com/dp/B09HG552Z4) production.
 
+### Visual BASIC on POSIX
+Faster, cheaper, and focusing upon the core VB.Net Frameworks - from your computer to the cloud and K8s what's not to like about running VB.Net on POSIX inspired operating systems? 
+
+🪄The how-to video [is here](https://rumble.com/v7h3fmo-visual-basic-on-linux.html).
+
 ### Teaser Videos
 Here are the first 75 slides of the 4 day, 159 slide presentation that we created & delivered for the Veterans Administration:
 
