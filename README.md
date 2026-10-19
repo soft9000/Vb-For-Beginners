@@ -1,5 +1,5 @@
-# Vb-For-Beginners
-The VB.Net source code in this project support the book. 
+# Visual Basic for Beginners
+The **VB.Net** source code in this project supports the book on [Amazon](https://www.amazon.com/dp/B09HG552Z4). 
 
 Feel free to purchase the [printed](https://www.amazon.com/dp/B09HG552Z4) production.
 
