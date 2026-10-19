@@ -12,6 +12,8 @@ Here are the first 75 slides of the 4 day, 159 slide presentation that we create
 
 [0300: Attrib, Paths & Trials ](https://rumble.com/v7gztyu-0300-attrib-paths-and-trials.html)
 
+[0400: Notepad, Programs & Programming](https://rumble.com/v7gzu2c-0400-notepad-programs-and-programming.html)
+
 (more scheduled ... be sure to [subscribe](https://rumble.com/c/c-7970576))?
 
 ![2021 Edition](https://github.com/soft9000/Vb-For-Beginners/blob/main/_Graphics/CoverAmazonKindle.png)
