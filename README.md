@@ -10,6 +10,8 @@ Here are the first 75 slides of the 4 day, 159 slide presentation that we create
 
 [0200: Finding Your VBC.EXE](https://rumble.com/v7gzqfs--0200-finding-your-vbc.exe.html)
 
+[0300: Attrib, Paths & Trials ](https://rumble.com/v7gztyu-0300-attrib-paths-and-trials.html)
+
 (more scheduled ... be sure to [subscribe](https://rumble.com/c/c-7970576))?
 
 ![2021 Edition](https://github.com/soft9000/Vb-For-Beginners/blob/main/_Graphics/CoverAmazonKindle.png)
