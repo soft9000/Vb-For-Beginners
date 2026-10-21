@@ -19,6 +19,10 @@ Here are the first 75 slides of the 4 day, 159 slide presentation that we create
 
 [0400: Notepad, Programs & Programming](https://rumble.com/v7gzu2c-0400-notepad-programs-and-programming.html)
 
+[0500: Writeline](https://rumble.com/v7gzu60-0500-writeline.html)
+
+[0600: Scripting ](https://rumble.com/v7gzu88-0600-scripting.html)
+
 (more scheduled ... be sure to [subscribe](https://rumble.com/c/c-7970576))?
 
 ![2021 Edition](https://github.com/soft9000/Vb-For-Beginners/blob/main/_Graphics/CoverAmazonKindle.png)
