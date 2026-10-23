@@ -25,6 +25,8 @@ Here are the first 75 slides of the 4 day, 159 slide presentation that we create
 
 [0700: Discovery Process](https://rumble.com/v7gzub2-0700-discovery-process.html)
 
+[0800: Re-Using MsgBox](https://rumble.com/v7gzue0-0800-re-using-msgbox.html)
+
 (more scheduled ... be sure to [subscribe](https://rumble.com/c/c-7970576))?
 
 ![2021 Edition](https://github.com/soft9000/Vb-For-Beginners/blob/main/_Graphics/CoverAmazonKindle.png)
