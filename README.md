@@ -8,7 +8,7 @@ Rather than constantly fixing tabs, ruefully counting spaces, or forever matchin
 
 Maybe. 
 
---- Yet for other the idea is also - like CoBOL - that the Vb.NET language is done - that no one is working 'oer time to obsolete their investments? 
+--- Yet for others the idea is also - like Co.B.O.L - that the Vb.NET language is done - that no one is working 'oer time to obsolete their investments? 
 
 🤔 A good thing?
 
