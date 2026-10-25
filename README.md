@@ -3,6 +3,17 @@ The **VB.Net** source code in this project supports the book on [Amazon](https:/
 
 Feel free to purchase the [printed](https://www.amazon.com/dp/B09HG552Z4) production.
 
+### Why Visual B.A.S.I.C?
+Rather than constantly fixing tabs, ruefully counting spaces, or forever matching "squirrelly braces" ~~metric~~ English tonnes of folks simply prefer knowing where blocks **BEGIN** and **END**?
+
+Maybe. 
+
+--- Yet for other the idea is also - like CoBOL - that the Vb.NET language is done - that no one is working 'oer time to obsolete their investments? 
+
+🤔 A good thing?
+
+💡So if you're looking for more fun facts about why **VB.Net** matters then here is [one fairly complete 'tech overview](https://github.com/Visual-Basic-for-Everyone/Core-Features-Functions/blob/main/Doc/2026_VbDotNetHistory.pdf) 'maties. 👀
+
 ### Visual BASIC on POSIX
 Faster, cheaper, and focusing upon the core VB.Net Frameworks - from your computer to the cloud and K8s what's not to like about running VB.Net on POSIX inspired operating systems? 
 
