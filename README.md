@@ -21,6 +21,9 @@ Faster, cheaper, and focusing upon the core VB.Net Frameworks - from your comput
 
 🪄The how-to video [is here](https://rumble.com/v7h3fmo-visual-basic-on-linux.html).
 
+### 🚀The Group
+Busily branching beyond the book, we're diving even deeper into promoting "***Visual BASIC for Everyone***", so here is [the group](https://github.com/Visual-Basic-for-Everyone) you might be looking for?
+
 ### 🚀Teaser Videos
 Here are the first 75 slides of the 4 day, 159 slide presentation that we created & delivered for the Veterans Administration:
 
