@@ -12,7 +12,7 @@ Maybe.
 
 A good thing?
 
-Next, if Java introduced many to the idea of "[W]rite [O]nce, [R]un [A]nywhere," (**W.O.R.A**) ... then today VB.Net has certainly become more about "[W]rite [O]nce, [U]se [F]orever" (**W.O.U.F**)?
+Next, if Java introduced many to the idea of "[W]rite [O]nce, [R]un [A]nywhere," (**W.O.R.A**) ... then today VB.Net has certainly become more about "[W]rite [O]nce, [U]se [F]orever" (**W.O.U.F**)? - officially pronounced "woof" - (yes, you heard that here first?)
 
 So if you're looking for more fun facts about why **VB.Net** matters then here is [one fairly complete 'tech overview](https://github.com/Visual-Basic-for-Everyone/Core-Features-Functions/blob/main/Doc/2026_VbDotNetHistory.pdf) 'maties. 👀
 
