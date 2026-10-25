@@ -29,6 +29,8 @@ Here are the first 75 slides of the 4 day, 159 slide presentation that we create
 
 [0900: Marking Key-Words](https://rumble.com/v7gzugg-0900-marking-key-words.html)
 
+[1000: Your First Gate](https://rumble.com/v7gzuki-1000-if.vb.html)
+
 (more scheduled ... be sure to [subscribe](https://rumble.com/c/c-7970576))?
 
 ![2021 Edition](https://github.com/soft9000/Vb-For-Beginners/blob/main/_Graphics/CoverAmazonKindle.png)
