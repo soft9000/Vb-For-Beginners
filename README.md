@@ -1,9 +1,9 @@
-# Visual Basic for Beginners
+# 🌐Visual Basic for Beginners
 The **VB.Net** source code in this project supports the book on [Amazon](https://www.amazon.com/dp/B09HG552Z4). 
 
 Feel free to purchase the [printed](https://www.amazon.com/dp/B09HG552Z4) production.
 
-### Why Visual B.A.S.I.C?
+### 🚀Why Visual B.A.S.I.C?
 Rather than constantly fixing tabs, ruefully counting spaces, or forever matching "squirrelly braces" ~~metric~~ English tonnes of folks simply prefer knowing where blocks **BEGIN** and **END**?
 
 Maybe. 
@@ -14,12 +14,12 @@ Maybe.
 
 💡So if you're looking for more fun facts about why **VB.Net** matters then here is [one fairly complete 'tech overview](https://github.com/Visual-Basic-for-Everyone/Core-Features-Functions/blob/main/Doc/2026_VbDotNetHistory.pdf) 'maties. 👀
 
-### Visual BASIC on POSIX
+### 🚀Visual BASIC on POSIX
 Faster, cheaper, and focusing upon the core VB.Net Frameworks - from your computer to the cloud and K8s what's not to like about running VB.Net on POSIX inspired operating systems? 
 
 🪄The how-to video [is here](https://rumble.com/v7h3fmo-visual-basic-on-linux.html).
 
-### Teaser Videos
+### 🚀Teaser Videos
 Here are the first 75 slides of the 4 day, 159 slide presentation that we created & delivered for the Veterans Administration:
 
 [0100: Free Windows .NET ](https://rumble.com/v7gzo9u-vb-1000-free-windows-.net.html)
