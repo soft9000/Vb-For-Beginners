@@ -49,6 +49,8 @@ Here are the first 75 slides of the 4 day, 159 slide presentation that we create
 
 [1100: Gatekeepers](https://rumble.com/v7gzupk-1100-ifelse.vb.html)
 
+[1200: Dim means 'Dimension'?](https://rumble.com/v7gzuse-1200-dim-means-dimension.html)
+
 (more scheduled ... be sure to [subscribe](https://rumble.com/c/c-7970576))?
 
 ![2021 Edition](https://github.com/soft9000/Vb-For-Beginners/blob/main/_Graphics/CoverAmazonKindle.png)
