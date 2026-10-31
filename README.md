@@ -55,6 +55,8 @@ Here are the first 75 slides of the 4 day, 159 slide presentation that we create
 
 [1400: Arrays](https://rumble.com/v7gzvkm-1400-arrays.html)
 
+[1500: ArrayOne Example](https://rumble.com/v7gzvpa-1500-arrayone-example.html)
+
 (more scheduled ... be sure to [subscribe](https://rumble.com/c/c-7970576))?
 
 ![2021 Edition](https://github.com/soft9000/Vb-For-Beginners/blob/main/_Graphics/CoverAmazonKindle.png)
