@@ -61,6 +61,8 @@ Here are the first 75 slides of the 4 day, 159 slide presentation that we create
 
 [1700: Our ArrayOne Solution](https://rumble.com/v7gzvuu-1700-our-array-one-solution.html)
 
+[1800: Length Bug](https://rumble.com/v7gzvx8-1800-length-bug.html)
+
 (more scheduled ... be sure to [subscribe](https://rumble.com/c/c-7970576))?
 
 ![2021 Edition](https://github.com/soft9000/Vb-For-Beginners/blob/main/_Graphics/CoverAmazonKindle.png)
