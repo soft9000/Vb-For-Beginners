@@ -65,6 +65,8 @@ Here are the first 75 slides of the 4 day, 159 slide presentation that we create
 
 [1900: LengthBugFix.VB](https://rumble.com/v7gzw2i-1900-lengthbugfix.vb.html)
 
+[2000: Exceptional Work 🤓](https://rumble.com/v7gzwas-2000-exceptional-work-.html)
+
 (more scheduled ... be sure to [subscribe](https://rumble.com/c/c-7970576))?
 
 ![2021 Edition](https://github.com/soft9000/Vb-For-Beginners/blob/main/_Graphics/CoverAmazonKindle.png)
