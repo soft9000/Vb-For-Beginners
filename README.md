@@ -4,7 +4,7 @@ The **VB.Net** source code in this project supports the book on [Amazon](https:/
 Feel free to purchase the [printed](https://www.amazon.com/dp/B09HG552Z4) production.
 
 ### 🚀Why Visual B.A.S.I.C?
-Rather than constantly fixing tabs, ruefully counting spaces, or forever matching "squirrelly braces" ~~metric~~ English tonnes of folks simply prefer knowing where blocks **BEGIN** and **END**?
+Rather than constantly fixing tabs, ruefully counting spaces, or forever matching "squirrely braces" ~~metric~~ English tonnes of folks simply prefer knowing where blocks **BEGIN** and **END**?
 
 Maybe. 
 
@@ -12,7 +12,7 @@ Maybe.
 
 A good thing?
 
-Next, if Java introduced many to the idea of "[W]rite [O]nce, [R]un [A]nywhere," (**W.O.R.A**) ... then today VB.Net has certainly become more about "[W]rite [O]nce, [F]orever [U]se" (**W.O.F.U**)? - officially pronounced "woah-fu" - (like kung-fu - yes, you heard that here first?)
+Next, if Java introduced many to the idea of "[W]rite [O]nce, [R]un [A]nywhere," (**W.O.R.A**) ... then today VB.Net has certainly become more about "[W]rite [O]nce, [F]orever [U]se" (**W.O.F.U**)? - officially pronounced "woah-fu" - (like kung-fu ;-)
 
 So if you're looking for more fun facts about why **VB.Net** matters then here is [one fairly complete 'tech overview](https://github.com/Visual-Basic-for-Everyone/Core-Features-Functions/blob/main/Doc/2026_VbDotNetHistory.pdf) 'maties. 👀
 
@@ -66,6 +66,8 @@ Here are the first 75 slides of the 4 day, 159 slide presentation that we create
 [1900: LengthBugFix.VB](https://rumble.com/v7gzw2i-1900-lengthbugfix.vb.html)
 
 [2000: Exceptional Work 🤓](https://rumble.com/v7gzwas-2000-exceptional-work-.html)
+
+[2100: VB's Debug Flag?](https://rumble.com/v7gzwim-2100-vbs-debug-flag.html)
 
 (more scheduled ... be sure to [subscribe](https://rumble.com/c/c-7970576))?
 
