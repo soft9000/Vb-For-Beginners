@@ -69,6 +69,8 @@ Here are the first 75 slides of the 4 day, 159 slide presentation that we create
 
 [2100: VB's Debug Flag?](https://rumble.com/v7gzwim-2100-vbs-debug-flag.html)
 
+[2200: Trycatch](https://rumble.com/v7gzwoc-2200-trycatch.html)
+
 (more scheduled ... be sure to [subscribe](https://rumble.com/c/c-7970576))?
 
 ![2021 Edition](https://github.com/soft9000/Vb-For-Beginners/blob/main/_Graphics/CoverAmazonKindle.png)
